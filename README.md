@@ -11,6 +11,9 @@ Amazon faced challenges in obtaining a consolidated and visually appealing analy
 Solution Provided:
 Developed a dynamic Power BI report with seven bookmarks, each catering to specific user needs. Incorporated intuitive visualizations for units sold, net sales, profit, and cost of goods, ensuring a detailed representation of sales performance. Implemented slicers for filtering data by year and order priority, enhancing user control. The inclusion of six key performance indicator cards offers a quick snapshot of essential metrics for swift decision-making.
 
+Tools used:
+Microsoft Power BI.
+   
 Result/Benefits on the Outcome of the Implementation:
 1. **User Empowerment:** The interactive report allows users to navigate seamlessly through different sections, empowering them to explore sales data based on various dimensions.
 2. **Data-driven Decision Making:** The inclusion of key performance indicators and visualizations enables stakeholders to make informed decisions quickly.
